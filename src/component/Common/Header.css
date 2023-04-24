@@ -1,0 +1,13 @@
+
+
+.collapse {
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    left: 50px;
+}
+
+.bar {
+    display: flex;
+    gap: 50px;
+}

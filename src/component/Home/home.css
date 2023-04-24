@@ -1,0 +1,24 @@
+.home_page {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 30px;
+    margin-left: 50%;
+    background: #000;
+    align-items: center;
+    justify-content: center;
+}
+
+.certificate_img {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    height: 450px;
+}
+
+.content {
+    display: flex;
+    margin: 100px;
+    margin-top: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+}

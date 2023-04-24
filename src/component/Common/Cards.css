@@ -1,0 +1,11 @@
+.cards{
+    text-align: center;
+}
+
+.card-body{
+    align-items: center;
+    display: grid;
+    grid-column: 3;
+    background-color: aliceblue;
+    cursor: pointer;
+}
